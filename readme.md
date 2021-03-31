@@ -1,4 +1,4 @@
-# EIP712 Signing
+# EIP712 Signing and Verification
 
 1. Adjust the `PERMIT_TYPEHASH` on contract.
 2. Adjust the params on `permit` function on contract.
